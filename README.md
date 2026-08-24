@@ -29,7 +29,12 @@ whether any of it worked.
 This account is where I open-source the **artifacts** behind the work —
 frameworks, templates, and small tools I'd otherwise keep trapped in slideware.
 
-> 🚧 Just getting started. First repos landing soon.
+**[share-of-voice-toolkit](https://github.com/ashimachetan/share-of-voice-toolkit)**
+— an opinionated framework for measuring share of voice. Most SOV reporting counts
+mentions and divides, which rewards volume over narrative position. This one scores
+every mention on reach, depth, sentiment, position, and category fit, then computes
+a weighted number you can defend. Includes the rubric, a full worked example, and a
+dependency-free Python script.
 
 ### Reach me
 
